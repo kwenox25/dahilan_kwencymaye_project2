@@ -51,6 +51,7 @@ the grid using CSS. It is a class becasue we will use multiple grids */
 
 #main-header {
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 #header-logo {
     width: 270px;
@@ -185,10 +186,9 @@ the grid using CSS. It is a class becasue we will use multiple grids */
     height: 70px;
     margin-right: 22px;
     margin-left: 22px;
-    
 }
 
-.shop-now h4 {
+.shop-now h5 {
     margin-top: 0;
     font-size: 18px;
     padding-top: 10px;
